@@ -1,0 +1,7 @@
+This is a message to pumpkin! 
+If pumpkin loves potato, she needs to type in from 1 to 100, how much
+she loves him.
+
+Please enter the amount of love pumpkin has for potato:
+
+- 
